@@ -1,0 +1,1 @@
+# lubimyczytac-rating-scraper
