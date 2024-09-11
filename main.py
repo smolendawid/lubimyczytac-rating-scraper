@@ -95,6 +95,6 @@ def display_sorted_results():
     for title, rating in sorted_results:
         print(f'{title}: {rating}')
 
-# Run the async function
+
 if __name__ == "__main__":
     asyncio.run(search_titles())
